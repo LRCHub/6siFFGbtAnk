@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "俺の街",
+  "base_artist": "Ym3boi",
+  "createdAt": "2025-12-01T06:08:03.149836Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "俺の街",
+      "artist": "Ym3boi",
+      "has_synced": false,
+      "path": "select/pl_01_俺の街_Ym3boi.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "俺の街のラーメン屋",
+      "artist": "Ym3boi",
+      "has_synced": false,
+      "path": "select/pl_02_俺の街のラーメン屋_Ym3boi.txt"
+    }
+  ]
+}
